@@ -1,0 +1,5 @@
+La ruta http://localhost:3000 mostró el mensaje “Servidor activo”.
+
+La ruta http://localhost:3000/saludo mostró el mensaje “Hola comunidad”.
+
+La ruta http://localhost:3000/mensaje/esteban mostró el mensaje “Hola esteban”, demostrando el uso de parámetros dinámicos en Express.
