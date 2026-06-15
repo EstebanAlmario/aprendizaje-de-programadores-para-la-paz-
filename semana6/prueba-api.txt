@@ -1,0 +1,9 @@
+La petición POST enviada a http://localhost:3000/registro con el JSON:
+{"nombre": "Maria", "mensaje": "Hola comunidad"}
+
+El servidor respondió con:
+{"estado":"Datos recibidos","nombre":"Maria","mensaje":"Hola comunidad"}
+
+Esto significa que el servidor recibió correctamente los datos enviados
+en el cuerpo de la petición gracias al middleware express.json() y los
+devolvió como confirmación usando res.json().

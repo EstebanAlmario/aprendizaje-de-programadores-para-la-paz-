@@ -1,0 +1,21 @@
+Es fundamental que las plataformas tecnológicas puedan recibir reportes
+de los ciudadanos de forma estructurada porque permite organizar la
+información de manera clara y sin errores de interpretación.
+
+Cuando los datos llegan en formato JSON, el sistema puede procesarlos
+automáticamente sin necesidad de intervención humana, lo que hace el
+proceso más rápido y eficiente.
+
+Además, permite que cualquier ciudadano desde su dispositivo pueda
+reportar una situación sin necesidad de trasladarse físicamente a una
+oficina, lo que democratiza el acceso a los servicios públicos.
+
+En contextos como Colombia, donde hay comunidades alejadas de los
+centros urbanos, estas plataformas son especialmente importantes porque
+acercan al ciudadano con las instituciones y facilitan la participación
+en la solución de problemas comunitarios.
+
+Tecnologías como Node.js y Express permiten construir estos sistemas
+de forma sencilla y accesible, lo que abre la puerta a que más
+desarrolladores puedan contribuir a la construcción de herramientas
+útiles para la paz y el desarrollo social.
