@@ -1,0 +1,12 @@
+Al enviar una petición POST a http://localhost:3000/reportes con el JSON:
+{"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}
+
+El servidor respondió con:
+{"mensaje":"Reporte registrado","reporte":{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"}}
+
+Luego al consultar GET http://localhost:3000/reportes el servidor
+devolvió la lista con todos los reportes registrados:
+[{"id":1,"tipo":"Infraestructura","descripcion":"Daño en alumbrado público"}]
+
+Los datos se guardan en memoria mientras el servidor está encendido.
+Si se reinicia el servidor la lista vuelve a estar vacía.
