@@ -1,0 +1,5 @@
+El comando uname -a muestra información del sistema operativo y del kernel: nombre del sistema (MINGW64_NT, que corresponde a Windows mediante Git Bash), nombre del equipo (DESKTOP-R0RFR5B), versión del kernel, fecha de compilación y arquitectura del procesador (x86_64).
+
+El comando whoami muestra el nombre del usuario que está usando la terminal actualmente, en este caso "Admin".
+
+Conocer esta información es útil al administrar un servidor porque permite identificar el sistema operativo y la arquitectura para instalar software compatible, verificar la versión del sistema para resolver problemas de compatibilidad, y confirmar con qué usuario y permisos se están ejecutando los comandos, lo cual es importante para la seguridad y administración del servidor.
