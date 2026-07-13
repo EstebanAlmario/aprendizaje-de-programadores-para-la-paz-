@@ -1,0 +1,10 @@
+Automatización de la plataforma
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje que se envía:
+"Se ha creado una nueva causa en la plataforma 'Petición en 3 Clics'. Ya está disponible para que la comunidad la apoye."
+
+Información que no debe enviarse por seguridad:
+No deben enviarse números de cédula, teléfonos, direcciones, correos electrónicos, comentarios sensibles ni otros datos personales de los ciudadanos.
